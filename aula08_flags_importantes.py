@@ -3,6 +3,7 @@
 # re.I ou re.IGNORECASE -> Ignore case
 # re.M ou re.MULTILINE -> aplicado em ^ e $, as flags são aplicadas linha a linha
 # re.S ou re.DOTALL -> o . reconhece \n
+# re.X ou re.VERBOSE -> permite comentários
 
 import re
 
